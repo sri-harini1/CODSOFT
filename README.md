@@ -1,37 +1,16 @@
-# CODSOFT - Data Science Internship
+# CODSOFT Data Science Internship
 
-## Task 1: Titanic Survival Prediction
+Welcome to my CODSOFT Data Science Internship repository! 🚀
 
-This repository contains my solution for the first task of the Data Science Internship at CODSOFT. In this task, I worked on predicting the survival of passengers on the Titanic using machine learning techniques.
+## Completed Tasks
 
-### Files:
+### Task 1: Titanic Survival Prediction
+- Implemented a machine learning model to predict whether a passenger on the Titanic survived or not.
+- Used the Titanic dataset for analysis.
+[https://www.kaggle.com/datasets/yasserh/titanic-dataset]
 
-- `TASK1.ipynb`: Jupyter Notebook containing the code for the Titanic Survival Prediction task.
+### Task 3: Iris Flower Classification
+- Developed a machine learning model to classify Iris flowers into different species based on their measurements.
+- Utilized the Iris dataset for training and evaluation.
+[https://www.kaggle.com/datasets/arshid/iris-flower-dataset]
 
-
-### Instructions:
-
-1. **View the Code:**
-   - Open the Jupyter Notebook file `TASK1.ipynb` to view the Python code and analysis.
-
-2. **Run the Code:**
-   - To run the code on your local machine, ensure you have the necessary libraries installed:
-pandas
-numpy
-seaborn
-Matplotlib
-Scikit-learn
-   - Execute the cells in order to reproduce the analysis.
-
-### Task Overview:
-
-- Utilized machine learning algorithms to predict survival based on passenger information.
-- Explored the Titanic dataset, considering features such as age, gender, class, and more.
-
-### Results:
-
-- Achieved [accuracy: 0.82].
-
-Feel free to explore the code  in this repository. If you have any questions or feedback, please reach out!
-
----
