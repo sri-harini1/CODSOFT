@@ -14,3 +14,8 @@ Welcome to my CODSOFT Data Science Internship repository! 🚀
 - Utilized the Iris dataset for training and evaluation.
 [https://www.kaggle.com/datasets/arshid/iris-flower-dataset]
 
+### Task 4: Sales Prediction using Python
+- Implemented a machine learning model for sales prediction.
+- Leveraged Python for data analysis and interpretation.
+  [Sales Prediction Dataset](https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/notebook)
+
